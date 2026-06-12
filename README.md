@@ -2,8 +2,8 @@
 
 Reproduction of two ML compiler papers focused on dynamic shape compilation:
 
-- **DVM** (arXiv 2603.24239v2) — Bytecode VM approach for dynamic tensor computation
-- **BladeDISC** (SIGMOD 2024) — Compiler-based symbolic shape optimization
+- **DVM** — Bytecode VM approach for dynamic tensor computation ([arXiv 2603.24239v2](https://arxiv.org/abs/2603.24239))
+- **BladeDISC** — Compiler-based symbolic shape optimization ([SIGMOD 2024](https://dl.acm.org/doi/10.1145/3626246.3653395))
 
 ## Results Summary
 
